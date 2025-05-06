@@ -1,0 +1,8 @@
+total_frames_processed,total_processing_time_seconds,average_fps,total_vehicles_detected,total_speed_violations,avg_accuracy_car,avg_accuracy_bus,avg_accuracy_truck,avg_accuracy_bike,overall_accuracy,vid,vehicles_passing_in_time_period,period,avg_vehicles_per_period
+150,27.57,5.44,132,0,50.39,48.89,44.19,29.75,49.19,test-videos/v9.mp4,43,10,46.5
+1501,249.78,6.01,1,0,76.14,35.77,55.51,63.62,70.47,test-videos/v1.mp4,1,10,2.9
+722,132.5,5.45,250,0,51.14,49.84,47.8,0,50.61,test-videos/v2.mp4,30,10,31.2
+1800,365.96,4.92,143,0,73.82,58.82,68.04,54.24,72.41,test-videos/v3.mp4,11,10,10.4
+150,27.67,5.42,132,0,50.39,48.89,44.19,29.75,49.19,test-videos/v4.mp4,43,10,46.5
+513,89.35,5.74,37,0,71.21,69.95,63.5,56.38,54.78,test-videos/v5.mp4,0,10,6.25
+372,63.42,5.87,133,0,60.39,41.38,49.16,0,59.82,test-videos/v6.mp4,12,10,29.0
